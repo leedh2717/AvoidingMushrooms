@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1cf5f24c3e6199d49905095e9da133b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bossHpSlider: {fileID: 4376795892284542665, guid: 570baeb35600a56419420bbe73eadad3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
